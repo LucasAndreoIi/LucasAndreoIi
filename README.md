@@ -1,6 +1,4 @@
-###########################################
 # Lucas Andreoli                          #
-###########################################
 
 ## Sobre Mim
 
@@ -21,5 +19,3 @@ Meus principais interesses incluem:
 - **Email:** [luquinhasandreoli@gmail.com]
 
 Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas oportunidades e colaborações!
-
-###########################################
