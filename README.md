@@ -1,16 +1,15 @@
-### Hi there 👋
+###########################################
 
-<!--
-**LucasAndreoIi/LucasAndreoIi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Lucas Andreoli]
+###########################################
 
-Here are some ideas to get you started:
+Sobre Mim
+Meu nome é Lucas Andreoli, tenho 19 anos, e sou estudante de Análise e Desenvolvimento de sistemas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contato
+GitHub: https://github.com/LucasAndreoIi
+LinkedIn: https://www.linkedin.com/in/lucas-andreoli-897b90249/
+Email: luquinhasandreoli@gmail.com
+Sinta-se à vontade para explorar meus repositórios e entrar em contato. Estou sempre aberto a novas oportunidades e colaborações!
+
+###########################################
