@@ -1,6 +1,6 @@
 ## Sobre Mim
 
-Meu nome é Lucas Andreoli. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas.
+Meu nome é Lucas Andreoli, tenho 19 e atualmente estou cursando Análise e Desenvolvimento de Sistemas.
 
 ## Interesses
 
