@@ -10,6 +10,10 @@ Meus principais interesses incluem:
 - Quero adquirir expêriencia no mercado de trabalho.
 - Quero aumentar meus conhecimentos e aprender ainda mais.
 
+## Confira alguns dos meus projetos:
+
+-  https://dream-blue-wine.vercel.app/
+
 ## Contato
 
 - **GitHub:** https://github.com/LucasAndreoIi
